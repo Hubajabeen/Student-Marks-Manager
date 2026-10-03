@@ -8,7 +8,8 @@ Student Marks Manager is a Python-based console application designed to manage s
 This project demonstrates the practical application of Python fundamentals, including file handling, exception handling, loops, dictionaries, functions, conditional statements, and data validation.
 ---
 
-✨ Features
+##✨ Features
+
 -Student registration and record management
 -Course selection from multiple departments
 -Unique roll number validation
@@ -23,25 +24,27 @@ This project demonstrates the practical application of Python fundamentals, incl
 
 ---
 
-🛠️ Technologies Used
--Python 
--File Handling 
--Dictionaries
--Functions
--Loops
--Exception Handling
+##🛠️ Technologies Used
+
+-  Python 
+-  File Handling 
+-  Dictionaries
+-  Functions
+-  Loops
+-  Exception Handling
 
 ---
 
 📂 Project Workflow
--Enter student name
--Select course
--Enter unique roll number
--Input marks for Math, Python, and Java
--Calculate total marks
--Calculate percentage
--Generate grade and status
--Save student data to file
+
+- [x] Enter student name
+- [x] Select course
+- [x] Enter unique roll number
+- [x] Input marks for Math, Python, and Java
+- [x] Calculate total marks
+- [x] Calculate percentage
+- [x] Generate grade and status
+- [ ] Save student data to file
 ---
 
 📊 Grading System
@@ -65,7 +68,7 @@ Student records are stored in:
 student_details.txt
 
 Including:
-
+``
 1.Student Name
 2.Course
 3.Hall Ticket Number
@@ -73,6 +76,7 @@ Including:
 5.Total Marks
 6.Percentage
 7.Result Status
+``
 
 ---
 🎯 Learning Outcomes
