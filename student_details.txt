@@ -1,0 +1,42 @@
+student_detail
+{'name': 'HJ', 'course': 'CSE-DS', 'Hallticket.no': 8}
+Python:90
+java:98
+Maths99
+totalMarks287
+Percentage: 95.67
+student_detail
+{'name': 'safa', 'course': 'CSE(AI&DS)', 'Hallticket.no': 2}
+Python:88
+java:77
+Maths99
+totalMarks264
+Percentage: 88.00
+student_detail
+{'name': 'ziya', 'course': 'CSE-A', 'Hallticket.no': 45}
+Python:88
+java:98
+Maths92
+totalMarks278
+Percentage: 92.67
+student_detail
+{'name': 'summiya', 'course': 'CSE-B', 'Hallticket.no': 44}
+Python:88
+java:34
+Maths99
+totalMarks221
+Percentage: 73.67
+student_detail
+{'name': 'huba', 'course': 'CSE-DS', 'Hallticket.no': 9}
+Python:99
+java:90
+Maths88
+totalMarks277
+Percentage: 92.33
+student_detail
+{'name': 'huba', 'course': 'CSE-DS', 'Hallticket.no': 12}
+Python:90
+java:77
+Maths99
+totalMarks266
+Percentage: 88.67
