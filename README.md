@@ -1,14 +1,14 @@
 # 🎓 Student Marks Manager
 
 
-##📌 Project Overview
+📌 Project Overview
 
 Student Marks Manager is a Python-based console application designed to manage student academic records efficiently. The system allows users to enter student details, validate roll numbers, select courses, record subject marks, calculate totals and percentages, assign grades, and store records permanently in a text file.
 
 This project demonstrates the practical application of Python fundamentals, including file handling, exception handling, loops, dictionaries, functions, conditional statements, and data validation.
+---
 
-
-###✨ Features
+✨ Features
 -Student registration and record management
 -Course selection from multiple departments
 -Unique roll number validation
@@ -21,8 +21,9 @@ This project demonstrates the practical application of Python fundamentals, incl
 -Data storage using file handling
 -Input validation with exception handling
 
+---
 
-####🛠️ Technologies Used
+🛠️ Technologies Used
 -Python 
 -File Handling 
 -Dictionaries
@@ -30,8 +31,9 @@ This project demonstrates the practical application of Python fundamentals, incl
 -Loops
 -Exception Handling
 
+---
 
-#####📂 Project Workflow
+📂 Project Workflow
 -Enter student name
 -Select course
 -Enter unique roll number
@@ -40,9 +42,9 @@ This project demonstrates the practical application of Python fundamentals, incl
 -Calculate percentage
 -Generate grade and status
 -Save student data to file
+---
 
-
-######📊 Grading System
+📊 Grading System
 
 | Marks Range | Grade |
 |------------|--------|
@@ -55,8 +57,8 @@ This project demonstrates the practical application of Python fundamentals, incl
 | 36-40 | D |
 | Below 35 | Fail |
 
-
-#######💾 Output Storage
+---
+💾 Output Storage
 
 Student records are stored in:
 
@@ -72,7 +74,8 @@ Including:
 6.Percentage
 7.Result Status
 
-########🎯 Learning Outcomes
+---
+🎯 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -83,7 +86,9 @@ Through this project, I gained hands-on experience in:
 -Data organization using dictionaries
 -Building menu-driven applications
 
-###########🚀 Future Improvements
+---
+
+🚀 Future Improvements
 -Search Student Records
 -Update Existing Records
 -Delete Student Records
