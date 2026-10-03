@@ -24,7 +24,7 @@ This project demonstrates the practical application of Python fundamentals, incl
 
 ---
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 
 -  Python 
 -  File Handling 
