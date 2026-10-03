@@ -68,7 +68,7 @@ Student records are stored in:
 student_details.txt
 
 Including:
-``
+
 1. Student Name
 2. Course
 3. Hall Ticket Number
@@ -76,7 +76,7 @@ Including:
 5. Total Marks
 6. Percentage
 7. Result Status
-``
+
 
 ---
 🎯 Learning Outcomes
@@ -96,8 +96,8 @@ Through this project, I gained hands-on experience in:
 - Search Student Records
 - Update Existing Records
 - Delete Student Records
--Student Ranking System
--JSON Database Integration
--GUI using Tkinter
--Database Integration with MySQL
--Report Card Generation
+- Student Ranking System
+- JSON Database Integration
+- GUI using Tkinter
+- Database Integration with MySQL
+- Report Card Generation
