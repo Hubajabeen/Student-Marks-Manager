@@ -8,19 +8,19 @@ Student Marks Manager is a Python-based console application designed to manage s
 This project demonstrates the practical application of Python fundamentals, including file handling, exception handling, loops, dictionaries, functions, conditional statements, and data validation.
 ---
 
-##✨ Features
+✨ Features
 
--Student registration and record management
--Course selection from multiple departments
--Unique roll number validation
--Duplicate record detection
--Subject-wise marks entry
--Automatic total marks calculation
--Percentage calculation
--Automatic grade assignment
--Pass/Fail status generation
--Data storage using file handling
--Input validation with exception handling
+- Student registration and record management
+- Course selection from multiple departments
+- Unique roll number validation
+- Duplicate record detection
+- Subject-wise marks entry
+- Automatic total marks calculation
+- Percentage calculation
+- Automatic grade assignment
+- Pass/Fail status generation
+- Data storage using file handling
+- Input validation with exception handling
 
 ---
 
@@ -69,13 +69,13 @@ student_details.txt
 
 Including:
 ``
-1.Student Name
-2.Course
-3.Hall Ticket Number
-4.Subject Marks
-5.Total Marks
-6.Percentage
-7.Result Status
+1. Student Name
+2. Course
+3. Hall Ticket Number
+4. Subject Marks
+5. Total Marks
+6. Percentage
+7. Result Status
 ``
 
 ---
@@ -83,19 +83,19 @@ Including:
 
 Through this project, I gained hands-on experience in:
 
--Python programming fundamentals
--File handling operations
--Input validation techniques
--Exception handling
--Data organization using dictionaries
--Building menu-driven applications
+- Python programming fundamentals
+- File handling operations
+- Input validation techniques
+- Exception handling
+- Data organization using dictionaries
+- Building menu-driven applications
 
 ---
 
 🚀 Future Improvements
--Search Student Records
--Update Existing Records
--Delete Student Records
+- Search Student Records
+- Update Existing Records
+- Delete Student Records
 -Student Ranking System
 -JSON Database Integration
 -GUI using Tkinter
