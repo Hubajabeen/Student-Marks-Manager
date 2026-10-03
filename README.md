@@ -44,7 +44,7 @@ This project demonstrates the practical application of Python fundamentals, incl
 - [x] Calculate total marks
 - [x] Calculate percentage
 - [x] Generate grade and status
-- [ ] Save student data to file
+- [x] Save student data to file
 ---
 
 📊 Grading System
